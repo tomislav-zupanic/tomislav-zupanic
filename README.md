@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomislav-zupanic
-- 👀 I’m interested in learing something new
-- 🌱 I’m currently learning html
+- 👀 I’m always interested in learing something new.
+- 🌱 I’m currently learning SQL.
 - 📫 How to reach me tomislav.zupanic333@gmail.com
 
 <!---
