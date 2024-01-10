@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tomislav-zupanic
+- 👋 Hi, I’m Tomislav Županić.
 - 👀 I’m always interested in learing something new.
-- 🌱 I’m currently learning SQL.
+- 🌱 I’m currently learning SQL and c#.
 - 📫 How to reach me tomislav.zupanic333@gmail.com
 
 <!---
